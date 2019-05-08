@@ -1,0 +1,15 @@
+name: 'Islandora Slick Member Of Galleries'
+description: 'Adds views to provide galleries of member_of relationships using the Slick Carousel and Blazy.'
+type: module
+core: 8.x
+dependencies:
+  - blazy
+  - islandora_core_feature
+  - media
+  - node
+  - slick
+  - slick_views
+  - taxonomy
+  - user
+  - views
+package: Islandora

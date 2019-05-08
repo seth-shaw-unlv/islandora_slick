@@ -1,0 +1,3 @@
+bundle: islandora
+required:
+  - slick.optionset.member_of
