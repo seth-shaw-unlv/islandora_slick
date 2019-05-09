@@ -1,3 +1,5 @@
 bundle: islandora
 required:
   - slick.optionset.member_of
+  - slick.optionset.peers_block
+  - blazy.settings
