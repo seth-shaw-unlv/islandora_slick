@@ -1,0 +1,16 @@
+{
+  "name": "islandora/islandora_slick",
+  "description": "Slick Carousels of repository items based on member_of relationships.",
+  "type": "drupal-module",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "keywords": ["Drupal", "Islandora"],
+  "license": "GPL-2.0+",
+  "homepage": "https://github.com/seth-shaw-unlv/islandora_slick",
+  "require": {
+    "islandora/islandora": "dev-8.x-1.x",
+    "drupal/blazy": "^2.0",
+    "drupal/slick_extras": "^1.0",
+    "drupal/slick_views": "^2.0",
+  }
+}
